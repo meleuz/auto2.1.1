@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/og8o3c3fx6m66g9k?svg=true)](https://ci.appveyor.com/project/meleuz/auto2-1-1)
+
 ## Задача №1 - Заказ карты
 
 Вам необходимо автоматизировать тестирование формы заказа карты.
